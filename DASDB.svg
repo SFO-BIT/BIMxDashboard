@@ -37,10 +37,10 @@
    id="namedview1641"
    showgrid="false"
    inkscape:zoom="1.0501834"
-   inkscape:cx="504.17958"
+   inkscape:cx="533.69823"
    inkscape:cy="413.61744"
-   inkscape:window-x="-8"
-   inkscape:window-y="12"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1639" />
 	<v:documentProperties
@@ -419,6 +419,7 @@
    class="st3"
    dy="1.2em"
    x="14.25">Conditions</tspan></text>
+
 		</g><g
    transform="translate(52.0001,-268.38)"
    v:layerMember="1"
@@ -566,6 +567,7 @@
    class="st3"
    dy="1.2em"
    x="5.25">Conditions</tspan></text>
+
 		</g><g
    transform="translate(52.0001,-152.28)"
    v:layerMember="1"
@@ -709,6 +711,7 @@
    y="420.13"
    x="7.3200002"><v:paragraph
    v:horizAlign="1" /><v:tabList />SD Model</text>
+
 		</g><g
    transform="translate(128.5,-152.28)"
    v:layerMember="1"
@@ -753,8 +756,7 @@
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(,Model
-Handoff)"
+   v:val="VT4(,Model Handoff)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -854,6 +856,7 @@ Handoff)"
    y="420.13"
    x="6.54"><v:paragraph
    v:horizAlign="1" /><v:tabList />DD Model</text>
+
 		</g><g
    transform="translate(214,-37.98)"
    v:layerMember="1"
@@ -897,9 +900,7 @@ Handoff)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Transmit
-Geometry
-Changes,)"
+   v:val="VT4(Transmit Geometry Changes,)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -999,6 +1000,7 @@ Changes,)"
    y="420.13"
    x="6.9499998"><v:paragraph
    v:horizAlign="1" /><v:tabList />CD Model</text>
+
 		</g><g
    transform="translate(214,-152.28)"
    v:layerMember="1"
@@ -1146,6 +1148,7 @@ Changes,)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(295,-37.98)"
    v:layerMember="1"
@@ -1189,9 +1192,7 @@ Changes,)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Transmit
- Coordination
-Changes,)"
+   v:val="VT4(Transmit  Coordination Changes,)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -1296,6 +1297,7 @@ Changes,)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(295,-152.28)"
    v:layerMember="1"
@@ -1442,6 +1444,7 @@ Changes,)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(376,-37.98)"
    v:layerMember="1"
@@ -1585,6 +1588,7 @@ Changes,)"
    y="420.13"
    x="2.79"><v:paragraph
    v:horizAlign="1" /><v:tabList />Shop model</text>
+
 		</g><g
    transform="translate(452.5,-37.98)"
    v:layerMember="1"
@@ -1727,6 +1731,7 @@ Changes,)"
    y="420.13"
    x="5.3800001"><v:paragraph
    v:horizAlign="1" /><v:tabList />Fab Model</text>
+
 		</g><g
    transform="translate(533.5,-37.98)"
    v:layerMember="1"
@@ -1770,9 +1775,7 @@ Changes,)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Transmit
-Field 
-Changes,)"
+   v:val="VT4(Transmit Field  Changes,)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -1877,6 +1880,7 @@ Changes,)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(533.5,-152.28)"
    v:layerMember="1"
@@ -2023,6 +2027,7 @@ Changes,)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(614.5,-37.98)"
    v:layerMember="1"
@@ -2056,8 +2061,7 @@ Changes,)"
    v:lbl="Process Step ID"
    v:nameU="_VisDM_Process_Step_ID" />
 				<v:cp
-   v:val="VT4(As-Built 
-Model)"
+   v:val="VT4(As-Built  Model)"
    v:langID="1033"
    v:type="0"
    v:lbl="Process Step Description"
@@ -2069,8 +2073,7 @@ Model)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Transmit
-Final Model)"
+   v:val="VT4(Transmit Final Model)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -2175,6 +2178,7 @@ Final Model)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(704.5,-152.28)"
    v:layerMember="1"
@@ -2217,8 +2221,7 @@ Final Model)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Transmit
-Final Model)"
+   v:val="VT4(Transmit Final Model)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -2323,12 +2326,14 @@ Final Model)"
    class="st3"
    dy="1.2em"
    x="13.83">Model</tspan></text>
+
 		</g><g
    transform="translate(704.5,-268.38)"
    v:layerMember="1"
    v:groupContext="shape"
    v:mID="50"
-   id="shape50-52">
+   id="GC-Handover"
+   inkscape:label="#shape50-52">
 			<title
    id="title1452">State.1230</title>
 			<desc
@@ -2365,8 +2370,7 @@ Final Model)"
    v:lbl="Next Step ID"
    v:nameU="_VisDM_Next_Step_ID" />
 				<v:cp
-   v:val="VT4(Handover
-Final Models)"
+   v:val="VT4(Handover Final Models)"
    v:langID="1033"
    v:type="0"
    v:lbl="Connector Label"
@@ -2466,6 +2470,7 @@ Final Models)"
    y="420.13"
    x="7.1100001"><v:paragraph
    v:horizAlign="1" /><v:tabList />Handover</text>
+
 		</g><g
    transform="translate(695.5,-361.98)"
    v:layerMember="1"
@@ -2689,6 +2694,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="22.83">Model</tspan></text>
+
 		</g><g
    transform="translate(70.0001,-361.98)"
    v:layerMember="2"
@@ -2737,6 +2743,7 @@ Final Models)"
    y="466.92999"
    x="-14.02"><v:paragraph
    v:horizAlign="1" /><v:tabList />Design NTP</text>
+
 		</g><g
    transform="translate(70.0001,-268.38)"
    v:layerMember="2"
@@ -2834,6 +2841,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="6.6500001">Handoff</tspan></text>
+
 		</g><g
    transform="translate(182.5,-170.28)"
    v:layerMember="2"
@@ -2914,6 +2922,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="-8.1099997">Changes</tspan></text>
+
 		</g><g
    transform="translate(268,-55.98)"
    v:layerMember="2"
@@ -3016,6 +3025,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="-8.1099997">Changes</tspan></text>
+
 		</g><g
    transform="translate(349,-55.98)"
    v:layerMember="2"
@@ -3162,6 +3172,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="-8.1099997">Changes</tspan></text>
+
 		</g><g
    transform="translate(587.5,-55.98)"
    v:layerMember="2"
@@ -3265,6 +3276,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="17.959999">Final Model</tspan></text>
+
 		</g><g
    transform="translate(722.5,-206.28)"
    v:layerMember="2"
@@ -3318,6 +3330,7 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="-14.92">Final Model</tspan></text>
+
 		</g><g
    transform="translate(722.5,-322.38)"
    v:layerMember="2"
@@ -3371,5 +3384,6 @@ Final Models)"
    class="st3"
    dy="1.2em"
    x="-16.870001">Final Models</tspan></text>
+
 		</g>
 </svg>
